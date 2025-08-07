@@ -1,4 +1,4 @@
-# Founding AI/ML Engineer – Efficient Models x Real-World Deployment x Edge-Aware Intelligence
+# Founding AI/ML Engineer
 
 **Location:** Brooklyn / San Francisco (Relocation Supported)
 **Type:** Full-time | Competitive Pay + Equity
