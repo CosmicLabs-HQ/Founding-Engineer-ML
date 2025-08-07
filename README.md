@@ -1,10 +1,3 @@
-* **ONNX/Core ML moved into required skills**
-* Strong emphasis on **cutting-edge model fluency**
-* Clear focus on **training + optimizing small models**
-* Language that appeals to OpenAI/DeepMind/Anthropic-caliber engineers who ship real-world systems
-
----
-
 # Founding AI/ML Engineer – Efficient Models x Real-World Deployment x Edge-Aware Intelligence
 
 **Location:** Brooklyn / San Francisco (Relocation Supported)
