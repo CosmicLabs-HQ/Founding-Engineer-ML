@@ -1,6 +1,6 @@
 # Founding AI/ML Engineer
 
-**Location:** Brooklyn / San Francisco (Relocation Supported)
+**Location:** In-person, San Francisco (Relocation Supported)
 **Type:** Full-time | Competitive Pay + Equity
 **Start Date:** ASAP
 
